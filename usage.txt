@@ -1,0 +1,4 @@
+step 1:- cd prasunet_CS_01
+step 2:- pip install pillow termcolor
+step 3:- chmod +x caesar_cipher.py
+step 4:- python3 caesar_cipher.py
